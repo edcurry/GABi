@@ -254,3 +254,4 @@ GABi <- function(x,nSols=0,convergenceGens=40,popsize=256,mfreq=1,xfreq=0.5,maxN
 
 }
 
+
