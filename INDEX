@@ -1,0 +1,10 @@
+GABi Generalized biclustering
+fps Function for fitness-proportional selection
+reproduction Function for applying genetic operators to GA chromosomes
+crossover Function to implement crossover in genetic algorithm
+mutation Function to implement bit-flipping of binary GA chromosomes
+exchangeSols Function that exchanges solutions between otherwise isolated sub-populations of the GA pool of solutions
+featureSelection.basic Function for selecting features from the dataset that fit specified bicluster pattern
+getFitnesses.entropy Function for calculating fitness of GA solutions
+getFitnesses.basic Function for calculating fitness of GA solutions
+plotBicluster Function for visualization of biclusters in the context of the original dataset
